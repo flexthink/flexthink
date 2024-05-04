@@ -6,7 +6,7 @@ This page is under construction
 
 **Original Text**: Placeholder
 **Original Phonemes**: Placeholder
-**Original Audio**: ![Audio](wavs/placeholder.wav)
+**Original Audio**: ![Audio](audio/sample.mp3)
 
 |  Edit  |  Text  | Phonemes | Audio  |
 |--------|--------|----------|--------|
