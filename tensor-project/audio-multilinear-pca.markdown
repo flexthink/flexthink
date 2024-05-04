@@ -6,9 +6,9 @@ This page is under construction
 
 **Original Text**: Placeholder
 **Original Phonemes**: Placeholder
-**Original Audio**: [Audio](wavs/placeholder.wav)
+**Original Audio**: ![Audio](wavs/placeholder.wav)
 
 |  Edit  |  Text  | Phonemes | Audio  |
 |--------|--------|----------|--------|
-| Test   | Test   | Test     | [Audio](wavs/placeholder.wav)       |
+| Test   | Test   | Test     | ![Audio](wavs/placeholder.wav)       |
 |--------|--------|----------|--------|
